@@ -1,6 +1,5 @@
 # MP4AudioLanguageTool
 
-## Description
 This application is designed to change the language code of audio tracks in MP4 video files. It's useful for adjusting the language metadata in MP4 files to the correct language, based on a selection of predefined languages and their ISO 639-2 codes.
 
 ## Prerequisites
